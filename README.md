@@ -6,4 +6,4 @@ I'm a ML person but I love talking tech, collecting laptop stickers, and scrolli
 
 Catch me procrastinating on [Twitter](https://twitter.com/rishabh16_)
 
-[![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=rish-16)](https://github.com/anuraghazra/github-readme-stats)
+[![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=rish-16&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
