@@ -1,6 +1,6 @@
 ### Sup Nerds 👋
 
-I'm Rish! I'm a ML person but I love talking tech, collecting laptop stickers, and scrolling through memes
+I'm Rish! I'm a Machine Learning person but I love talking tech and collecting laptop stickers.
 
 Catch me procrastinating on [Twitter](https://twitter.com/rishabh16_)
 
