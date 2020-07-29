@@ -5,5 +5,3 @@ I'm Rish and I'm a Machine Learning person! I love talking tech, collecting lapt
 Catch me procrastinating on [Twitter](https://twitter.com/rishabh16_)
 
 [![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=rish-16&show_icons=true&theme=dark&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rish-16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
