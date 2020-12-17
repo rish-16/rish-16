@@ -1,6 +1,6 @@
 ### Sup Nerds 👋
 
-I'm Rish, a CS freshman & Machine Learning person from NUS! I love talking tech, collecting laptop stickers, and playing the guitar.
+I'm Rish, a CS freshman & Machine Learning person from the National University of Singapore! I love talking tech, collecting laptop stickers, and playing the guitar.
 
 Catch me procrastinating on [Twitter](https://twitter.com/rishabh16_)
 
