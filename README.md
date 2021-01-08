@@ -1,4 +1,4 @@
-### Sup Nerds 👋
+### Sup Nerds 👋🏻
 
 I'm Rish, a CS freshman & Machine Learning person from the National University of Singapore! 
 
