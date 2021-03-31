@@ -1,6 +1,6 @@
 ### Sup Nerds 👋🏻
 
-I'm Rish, a CS freshman & Machine Learning person from the National University of Singapore! 
+I'm Rish, a CS freshman & Machine Learning research student from the National University of Singapore! 
 
 I love talking tech, collecting laptop stickers, and playing the guitar.
 
