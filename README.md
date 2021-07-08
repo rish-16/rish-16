@@ -1,6 +1,6 @@
 ### Sup Nerds 👋🏻
 
-I'm Rish, a CS sophomore & Machine Learning research student from the National University of Singapore! I love talking tech, collecting laptop stickers, and playing the electric guitar.
+I'm Rish, a CS kid & Machine Learning research student from the National University of Singapore! I love talking tech, collecting laptop stickers, and playing the electric guitar.
 
 Catch me procrastinating on [Twitter](https://twitter.com/rishabh16_) or find out more here [http://rish-16.github.io](http://rish-16.github.io)
 
