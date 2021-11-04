@@ -1,6 +1,6 @@
 ### Sup Nerds 👋🏻
 
-I'm Rish, a CS kid & Machine Learning research student from the National University of Singapore (NUS)! I love talking tech, collecting laptop stickers, and playing the electric guitar. 
+I'm Rish, a CS+Math kid & Machine Learning research student from the National University of Singapore (NUS)! I love talking tech, collecting laptop stickers, and playing the electric guitar. 
 
 Currently, I'm working on cool Graph Deep Learning + Proteomics projects at [A*STAR, Singapore](https://www.a-star.edu.sg)!
 
