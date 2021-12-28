@@ -1,4 +1,4 @@
-### Sup Nerds 👋🏻
+# Sup Nerds 👋🏻
 
 I'm Rish, a CS + Math kid & Machine Learning research student from the National University of Singapore (NUS)! I love open-sourcing, writing, talking tech, collecting laptop stickers, and playing the electric guitar.
 
