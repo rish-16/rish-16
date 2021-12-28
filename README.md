@@ -7,9 +7,9 @@ I'm Rish, a CS + Math kid & Machine Learning research student from the National 
 - Teaching [_CS2109S: Intro to AI and Machine Learning_](https://nusmods.com/modules/CS2109S/introduction-to-ai-and-machine-learning) with [Prof. Ben Leong](https://www.comp.nus.edu.sg/~bleong/)
 
 ### Previously
-- Taught CS3244: Machine Learning at NUS Computing
+- Taught _CS3244: Machine Learning_ at NUS Computing
 - ML research for Protein Studies (COVID-19, Influenza) at A\*STAR, Singapore
-- Data Science at Grab, Inc.
+- Computer Vision and Data Science at Grab, Inc.
 
 Catch me procrastinating on [Twitter](https://twitter.com/rishabh16_) or find out more here [http://rish-16.github.io](http://rish-16.github.io)
 
