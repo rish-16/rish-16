@@ -3,6 +3,7 @@
 I'm Rishabh, a CS + Math kid & Machine Learning research student from the National University of Singapore (NUS)! I love open-sourcing, writing, talking tech, collecting laptop stickers, and playing the electric guitar.
 
 ### Currently
+- Studying Graph Attention with [Prof. Kimon Fountoulakis](https://cs.uwaterloo.ca/about/people/kimon-fountoulakis) at the [OpAL Lab](http://opallab.ca), University of Waterloo
 - Looking at _Graph Neural Network Expressiveness_ with [Prof. Bryan Hooi](http://bhooi.github.io) for my UROP 2022
 - Teaching [_CS2109S: Intro to AI and Machine Learning_](https://nusmods.com/modules/CS2109S/introduction-to-ai-and-machine-learning) with [Prof. Ben Leong](https://www.comp.nus.edu.sg/~bleong/). Previously taught [_CS3244: Machine Learning_](https://nusmods.com/modules/CS3244/machine-learning)
 
