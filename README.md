@@ -6,7 +6,6 @@ I study Graph Deep Learning, specifically graph representation learning and expr
 
 ### Currently
 
-- Studying Graph Attention with [Prof. Kimon Fountoulakis](https://cs.uwaterloo.ca/about/people/kimon-fountoulakis) at the [OpAL Lab](http://opallab.ca), University of Waterloo
 - Looking at Graph Representation Learning on molecules with [Prof. Bryan Hooi](http://bhooi.github.io) at NUS
 - (Incoming) Research Student at I2R, ASTAR with [Dr. Li Xiaoli](https://personal.ntu.edu.sg/xlli/) working on Graph Representation Learning for the Open Catalyst Challenge
 
