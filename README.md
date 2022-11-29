@@ -1,13 +1,12 @@
-# Sup Nerds 👋🏻
+## Sup Nerds 👋🏻
 
-I'm Rishabh, a CS + Math kid & Machine Learning research student from the National University of Singapore (NUS)! I love open-sourcing, writing, talking tech, collecting laptop stickers, and playing the electric guitar.
+I'm Rishabh, a CS + Math kid & Machine Learning research student from the National University of Singapore (NUS)! I am interested in Geometric Deep Learning for Molecular Biology and Cheminformatics, and am advised by [Prof. Bryan Hooi](http://bhooi.github.io). 
 
-I study Graph Deep Learning, specifically graph representation learning and expressiveness. 
+I love open-sourcing, writing, talking tech, collecting laptop stickers, and playing the electric guitar.
 
-### Currently
+---
 
-- Looking at Graph Representation Learning on molecules with [Prof. Bryan Hooi](http://bhooi.github.io) at NUS
-- (Incoming) Research Student at I2R, ASTAR with [Dr. Li Xiaoli](https://personal.ntu.edu.sg/xlli/) working on Graph Representation Learning for the Open Catalyst Challenge
+I am currently a research student at I2R, ASTAR with [Dr. Li Xiaoli](https://personal.ntu.edu.sg/xlli/) working on Graph Representation Learning for the Open Catalyst Project
 
 Catch me procrastinating on [Twitter](https://twitter.com/rishabh16_) or find out more here [http://rish-16.github.io](http://rish-16.github.io)
 
