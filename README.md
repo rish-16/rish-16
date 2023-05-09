@@ -6,7 +6,7 @@ I love open-sourcing, writing, talking tech, collecting laptop stickers, and pla
 
 ---
 
-I am currently a research student at I2R, ASTAR with [Dr. Li Xiaoli](https://personal.ntu.edu.sg/xlli/) working on geometric deep learning and generating modelling for proteins and drug delivery.
+I am currently looking at geometric graph representation learning for protein dynamics under the guidance of [Prof. Pietro Lio](https://www.cl.cam.ac.uk/~pl219/) (University of Cambridge) and Prof. Bryan Hooi.
 
 Catch me procrastinating on [Twitter](https://twitter.com/rishabh16_) or find out more here [http://rish-16.github.io](http://rish-16.github.io)
 
