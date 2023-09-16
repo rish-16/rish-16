@@ -4,6 +4,6 @@ I'm Rishabh, a CS + Math kid & Machine Learning research student from the Nation
 
 I love open-sourcing, writing, talking tech, collecting laptop stickers, and playing the electric guitar.
 
-> I'm currently with [Prof. Pietro Lio's](https://www.cl.cam.ac.uk/~pl219/) group at the University of Cambridge looking at geometric graph representation learning and generative modelling for protein dynamics; co-supervised by Prof. Bryan Hooi.
+> I'm currently with [Prof. Pietro Lio's](https://www.cl.cam.ac.uk/~pl219/) group at the University of Cambridge looking at geometric graph representation learning and generative modelling for protein dynamics; co-advised by Prof. Bryan Hooi.
 
 Catch me procrastinating on [Twitter](https://twitter.com/rishabh16_) or find out more here [http://rish-16.github.io](http://rish-16.github.io)
